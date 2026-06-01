@@ -1,7 +1,7 @@
 # Instagram Usage & Lifestyle Database Analysis
 
 **Author:** Abdul Azeem (24i-2013)  
-**Department:** AI / A  
+**Department:** AI / A    
 **Course:** Database Management Systems (CS2005)
 
 ## 📌 Project Overview

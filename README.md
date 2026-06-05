@@ -14,7 +14,7 @@ This project focuses on designing and implementing a relational database to anal
 - **Other Tools:** Jupyter Notebook
 
 ## 🗄️ Database Schema & Entities
-The database (`SocialMediaDB`) is designed with a 1:1 relationship model to ensure data integrity and minimize redundancy. The primary entities are:
+The database (`SocialMediaDB`) is designed with a 1:1 relationship model to ensure data integrity and minimize redundancy. The primary entities are:   
 1. **UserAccount:** Core account details (Primary Table).
 2. **UserDemographics:** Age, gender, location, and income level.
 3. **AppUsage:** Daily active minutes, sessions, and DMs.

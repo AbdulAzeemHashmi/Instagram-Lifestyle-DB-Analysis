@@ -30,7 +30,7 @@ The database (`SocialMediaDB`) is designed with a 1:1 relationship model to ensu
 - `connection.ipynb`: Python Jupyter Notebook used to clean data and insert 1,200 records into the MySQL database.
 
 ## 🚀 How to Run the Project
-1. **Setup Database:** Run `database.sql` in your MySQL environment to create `SocialMediaDB` and its associated tables.   
+1. **Setup Database:** Run `database.sql` in your MySQL environment to create `SocialMediaDB` and its associated tables.
 2. **Insert Data:** Open `connection.ipynb`, update the MySQL credentials (username/password), and execute the cells to load the dataset into the database.
 3. **Run Queries:** Execute the queries provided in `queries.sql` to see the analytical results.
 
